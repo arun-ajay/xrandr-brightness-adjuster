@@ -1,6 +1,7 @@
 # xrandr-brightness-adjuster
 
 I wrote this pretty quickly since I was tired of manually adjusting my monitors' brightness level.
+
 This should detect all of your monitors and adjust the brightness with whatever float value you provide. 
 
 ##### Sample Usage
